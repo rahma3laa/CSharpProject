@@ -1,0 +1,14 @@
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\bin\Debug\net8.0\Task_Tracker_Project.exe
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\bin\Debug\net8.0\Task_Tracker_Project.deps.json
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\bin\Debug\net8.0\Task_Tracker_Project.runtimeconfig.json
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\bin\Debug\net8.0\Task_Tracker_Project.dll
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\bin\Debug\net8.0\Task_Tracker_Project.pdb
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\obj\Debug\net8.0\Task_Tracker_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\obj\Debug\net8.0\Task_Tracker_Project.AssemblyInfoInputs.cache
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\obj\Debug\net8.0\Task_Tracker_Project.AssemblyInfo.cs
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\obj\Debug\net8.0\Task_Tracker_Project.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\obj\Debug\net8.0\Task_Tracker_Project.dll
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\obj\Debug\net8.0\refint\Task_Tracker_Project.dll
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\obj\Debug\net8.0\Task_Tracker_Project.pdb
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\obj\Debug\net8.0\Task_Tracker_Project.genruntimeconfig.cache
+C:\Users\Rahma\source\repos\Task_Tracker_Project\Task_Tracker_Project\obj\Debug\net8.0\ref\Task_Tracker_Project.dll
